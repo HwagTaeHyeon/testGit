@@ -5,6 +5,7 @@ public class MyTest {
 		System.out.println("깃 연동");
 		System.out.println("연동수정");
 		System.out.println("ㅇㅅㅇ");
-		
+		System.out.println("xD");
+		System.out.println("nonono");
 	}
 }
